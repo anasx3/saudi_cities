@@ -1,6 +1,6 @@
 name: saudi_cities
 description: A package that provides information about cities in Saudi Arabia, including traditional clothing, food, customs, and famous landmarks.
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/anasx3/saudi_cities.git
 
 environment:
