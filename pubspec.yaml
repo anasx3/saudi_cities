@@ -1,6 +1,6 @@
 name: saudi_cities
 description: حزمة تحتوي على معلومات عن المدن في السعودية، بما في ذلك الملابس التقليدية، الطعام الشهير، والعادات والمعالم.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/anasx3/saudi_cities.git
 
 environment:
