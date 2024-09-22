@@ -1,15 +1,15 @@
-# Saudi Cities Package
+# saudi_cities
 
-This Flutter package provides detailed information about major cities in Saudi Arabia, including traditional clothing, famous foods, customs, and famous landmarks. It helps developers easily display city data in their Flutter applications.
+**A Flutter package that provides information about cities in Saudi Arabia, including traditional clothing, famous food, customs, and famous landmarks for each city.**
 
 ## Features
 - List of major cities in Saudi Arabia.
-- Information about each city's traditional clothing, food, customs, and famous landmarks.
-- Simple interface for accessing and displaying city data.
+- Information about each city’s traditional clothing, food, customs, and famous landmarks.
+- Simple interface to access and display city data in your Flutter app.
 
 ## Getting Started
-To use this package, add `saudi_cities` as a dependency in your `pubspec.yaml` file.
+To use this package, add `saudi_cities` as a dependency in your `pubspec.yaml` file:
 
-```dart
+```yaml
 dependencies:
-  saudi_cities: ^0.0.4
+  saudi_cities: ^0.0.5
