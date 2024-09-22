@@ -12,4 +12,4 @@ To use this package, add `saudi_cities` as a dependency in your `pubspec.yaml` f
 
 ```yaml
 dependencies:
-  saudi_cities: ^0.0.5
+ saudi_cities: ^0.0.6
